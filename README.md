@@ -1,11 +1,3 @@
-<h1 align="center">👋 Hi, I'm Rukiye</h1>
-
-<p align="center">
-Frontend-focused Web Developer building modern, user-centered and scalable web applications.
-</p>
-
----
-
 ### 🚀 About Me
 
 - I develop modern and scalable web projects using  
